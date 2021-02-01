@@ -1,0 +1,58 @@
+﻿@model IEnumerable<Projeto_Crud.Models.Paciente>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h4>Pacientes</h4>
+
+<p>
+    <button><a asp-action="CriarPaciente">Adicionar novo Paciente</a> </button>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Nome)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CPF)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Telefone)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Email)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.Convenio)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nome)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CPF)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Telefone)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Email)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Convenio)
+            </td>
+            <td>
+                <button><a asp-action="AtualizarPaciente" asp-route-id="@item.PacienteId">Edit</a></button>
+                <button><a asp-action="ExcluirPaciente" asp-route-id="@item.PacienteId">Delete</a></button>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

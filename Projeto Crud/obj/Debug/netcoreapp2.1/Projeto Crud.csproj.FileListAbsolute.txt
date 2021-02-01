@@ -1,0 +1,39 @@
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\bin\Debug\netcoreapp2.1\appsettings.Development.json
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\bin\Debug\netcoreapp2.1\appsettings.json
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\bin\Debug\netcoreapp2.1\Projeto Crud.deps.json
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\bin\Debug\netcoreapp2.1\Projeto Crud.runtimeconfig.json
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\bin\Debug\netcoreapp2.1\Projeto Crud.runtimeconfig.dev.json
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\bin\Debug\netcoreapp2.1\Projeto Crud.dll
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\bin\Debug\netcoreapp2.1\Projeto Crud.pdb
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\bin\Debug\netcoreapp2.1\Projeto Crud.Views.dll
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\bin\Debug\netcoreapp2.1\Projeto Crud.Views.pdb
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\obj\Debug\netcoreapp2.1\Projeto Crud.csprojAssemblyReference.cache
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\obj\Debug\netcoreapp2.1\Projeto Crud.AssemblyInfoInputs.cache
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\obj\Debug\netcoreapp2.1\Projeto Crud.AssemblyInfo.cs
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\obj\Debug\netcoreapp2.1\Projeto Crud.csproj.CoreCompileInputs.cache
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\obj\Debug\netcoreapp2.1\Projeto Crud.RazorAssemblyInfo.cache
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\obj\Debug\netcoreapp2.1\Projeto Crud.RazorAssemblyInfo.cs
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\obj\Debug\netcoreapp2.1\Projeto Crud.TagHelpers.input.cache
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\obj\Debug\netcoreapp2.1\Projeto Crud.TagHelpers.output.cache
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\obj\Debug\netcoreapp2.1\Projeto Crud.RazorCoreGenerate.cache
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.cshtml.g.cs
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.cshtml.g.cs
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\obj\Debug\netcoreapp2.1\Projeto Crud.RazorTargetAssemblyInfo.cache
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\obj\Debug\netcoreapp2.1\Projeto Crud.RazorTargetAssemblyInfo.cs
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\obj\Debug\netcoreapp2.1\Projeto Crud.Views.pdb
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\obj\Debug\netcoreapp2.1\Projeto Crud.dll
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\obj\Debug\netcoreapp2.1\Projeto Crud.pdb
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\obj\Debug\netcoreapp2.1\Projeto Crud.genruntimeconfig.cache
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\obj\Debug\netcoreapp2.1\Projeto Crud.csproj.CopyComplete
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\obj\Debug\netcoreapp2.1\Razor\Views\Pacientes\Index.cshtml.g.cs
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\obj\Debug\netcoreapp2.1\Razor\Views\Pacientes\CriarPaciente.cshtml.g.cs
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\obj\Debug\netcoreapp2.1\Razor\Views\Pacientes\AtualizarPaciente.cshtml.g.cs
+C:\D\Estudos\ASP.NET CORE MVC\Projeto CRUD\Projeto Crud\Projeto Crud\obj\Debug\netcoreapp2.1\Razor\Views\Pacientes\ExcluirPaciente.cshtml.g.cs
